@@ -1,0 +1,149 @@
+body {
+	background-color: #000000;
+	color: #fff;
+	margin: 0px;
+	padding: 0px;
+	font-size: 16px;
+	font-family: 'Roboto', sans-serif;
+}
+h1 {
+	font-size: 45px;
+    font-weight: bold;
+    margin-bottom: 0px;
+    text-transform: uppercase;
+}
+a{
+	color: inherit;
+	text-decoration: none;
+}
+p{
+	color: #fff;
+	margin-top: 5px;
+}
+section {
+	padding: 15px 0px;
+}
+table {
+	width: 100%;
+}
+/* form inputs */
+input {
+	width: 97%;
+    height: 15px;
+    padding: 5px 10px;
+    margin-bottom: 10px;
+    position: relative;
+
+}
+
+/* unvisited link */
+a:link {
+  color: white;
+}
+
+/* mouse over link */
+a:hover {
+  color: red;
+}
+
+/* selected link */
+a:focus {
+  color: yellow;
+} 
+.active {
+	color:yellow;
+}
+.home input {
+	width:94%;
+}
+textarea {
+	width: 100%;
+}
+i{
+	display: inline !important;
+}
+select {
+	width: 100%;
+    height: 34px;
+    padding: 5px 10px;
+    margin-bottom: 10px;
+    position: relative;
+
+}
+button{
+	padding:10px 20px;
+	margin:15px 0px;
+}
+
+.no-margin {
+	margin:0px;
+}
+.w-50 {
+	width: 50%;
+}
+.logo {
+	width: 150px;
+}
+.w-100{
+	width: 100%;
+}
+#outerwrapper {
+	width:100%; 
+	margin:0 auto; 
+	position:relative; 
+}
+.wrapper {
+	width:1170px; 
+	margin:0 auto; 
+	position:relative; 
+	z-index:9;
+}
+.menu-bar {
+	padding: 30px 15px;
+	padding-bottom: 0px;
+}
+.banner-img{
+	width: 100%;
+	padding: 0px 15px;
+}
+.about-img {
+	width: 100%;
+}
+.home-about th{
+	padding: 0px 15px;
+}
+
+.text-center {
+	text-align: center;
+}
+.contact {
+	padding: 0px 15px;
+	padding-bottom: 25px;
+}
+.events, .events td {
+	padding:0px 15px;
+}
+.events img {
+	border: 5px solid #fff;
+}
+.sign-up {
+	padding: 0px 15%;
+}
+.sign-up-box {
+	border: 2px solid #fff;
+}
+
+.event-item h3{
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+}
+.event-item span{
+	font-size: 14px;
+	color: #999999ad;
+}
+.contact-info th {
+	text-align: left;
+}
+.center {
+	text-align: center;
+}
